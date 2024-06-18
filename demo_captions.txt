@@ -1,0 +1,13 @@
+Summary: This video is used as the supplment material that shows the design and performance evaluation experiments in this paper.
+
+1. In section 1, we compared the gestures of different type fingers. Then we test the D-type and A-type finger adaptibility. 
+
+2. In section 2, we show the design of fully 3D-printed tactile fingertip, also its demo related to tactile sensing.
+
+3. In section 3, we show the exploded animation of Tactile SoftHand-A which can show its sturcture intutively. 
+
+4. In section 4, we show the experiment B video - the controllable grasping gestures.
+
+5. In section 5, we show the experiment C video - the grasping adaptability.
+
+6. In section 6, we show the experiment D video - tactile feedback control. 
